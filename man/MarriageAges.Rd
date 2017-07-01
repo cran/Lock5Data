@@ -11,8 +11,8 @@ Ages for husbands and wives from marriage licenses
 \format{
   A dataset with 100 observations on the following 2 variables.
   \tabular{rl}{
-    \code{Husband} \tab {Age of husband at marriage}\cr
-    \code{Wife} \tab {Age of wife at marriage}\cr
+    \code{Husband} \tab {Age of husband at marriage} \cr
+    \code{Wife} \tab {Age of wife at marriage} \cr
   }
 }
 \details{

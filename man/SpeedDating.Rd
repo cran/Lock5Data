@@ -3,7 +3,7 @@
 \docType{data}
 \title{Speed Dating}
 \description{
-Data from a sample of four minute speed dates. 
+Data from a sample of four minute speed dates.
 }
 %\usage{data(SpeedDating)}
 \format{

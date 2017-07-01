@@ -13,10 +13,10 @@ Monthly rent for one-bedroom apartments in Manhattan, NY
   }
 }
 \details{
-Monthly rents for a sample of 20 one-bedroom apartments in Manhattan, NY that were advertised on Craig's List in July, 2011. 
+Monthly rents for a sample of 20 one-bedroom apartments in Manhattan, NY that were advertised on Craig's List in July, 2011.
 }
 \source{
-Apartments advertised on Craig's List at newyork.craigslist.org, July 5, 2011.
+Apartments advertised on Craig's List at \emph{newyork.craigslist.org}, July 5, 2011.
 }
 
 \keyword{datasets}

@@ -11,8 +11,8 @@ Interferon gamma production and tea drinking
 \format{
   A dataset with 21 observations on the following 2 variables.
   \tabular{rl}{
-    \code{InterferonGamma} \tab {Measure of interferon gamma production}\cr
-    \code{Drink} \tab {Type of drink: \code{Coffee}  or \code{Tea}}\cr
+    \code{InterferonGamma} \tab {Measure of interferon gamma production} \cr
+    \code{Drink} \tab {Type of drink: \code{Coffee}  or \code{Tea}} \cr
   }
 }
 \details{

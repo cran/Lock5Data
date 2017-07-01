@@ -5,36 +5,51 @@
 US State Data
 }
 \description{
-Various data for all 50 U.S. states
+Various data for all 50 US States in 2014.
 }
 %\usage{data(USStates)}
 \format{
-  A dataset with 50 observations on the following 17 variables.
+  A dataset with 50 observations on the following 22 variables.
   \tabular{rl}{
-    \code{State} \tab {Name of state}\cr
-    \code{HouseholdIncome} \tab {Mean household income (in dollars)}\cr
-    \code{IQ} \tab {Mean IQ score of residents}\cr
-    \code{McCainVote} \tab {Percentage of votes for John McCain in 2008 Presidential election}\cr
-    \code{Region} \tab {Area of the country: \code{MW}=Midwest, \code{NE}=Northeast, \code{S}=South, or \code{W}=West}\cr
-    \code{ObamaMcCain} \tab {Which 2008 Presidential candidate won state?  \code{M}=McCain or \code{O}=Obama}\cr
-    \code{Population} \tab {Number of residents (in millions)}\cr
-    \code{EighthGradeMath} \tab {a numeric vector}\cr
-    \code{HighSchool} \tab {Percentage of high school graduates}\cr
-    \code{GSP} \tab {Gross State Product (dollars per capita)}\cr
-    \code{FiveVegetables} \tab {Percentage of residents who eat at least five servings of fruits/vegetables per day}\cr
-    \code{Smokers} \tab {Percentage of residents who smoke}\cr
-    \code{PhysicalActivity} \tab {Percentage of residents who have competed in a physical activity in past month}\cr
-    \code{Obese} \tab {Percentage of residents classified as obese}\cr
-    \code{College} \tab {Percentage of residents with college degrees}\cr
-    \code{NonWhite} \tab {Percentage of residents who are not white}\cr
-    \code{HeavyDrinkers} \tab {Percentage of residents who drink heavily}\cr
+    \code{State} \tab {State name} \cr
+    \code{HouseholdIncome} \tab {Median household income (in $1,000's)} \cr
+    \code{Region} \tab {MW=Midwest, NE=Northeast, S=South, W=West} \cr
+    \code{Population} \tab {Number of residents (in millions for 2014)} \cr
+    \code{EighthGradeMath} \tab {Average score NAEP mathematics for 8th-grade students (2013)} \cr
+    \code{HighSchool} \tab {Percent of residents (ages 25-34) who are high school graduates} \cr
+    \code{College} \tab {Percent of residents (ages 25-34) who are college graduates} \cr
+    \code{IQ} \tab {Estimated mean IQ score of residents} \cr
+    \code{GSP} \tab {Gross state product (in $1,000's per capita in 2013)} \cr
+    \code{Vegetables} \tab {Percent of residents eating vegetables at least once per day} \cr
+    \code{Fruit} \tab {Percent of residents eating fruit at least once per day} \cr
+    \code{Smokers} \tab {Percent of residents who smoke} \cr
+    \code{PhysicalActivity} \tab {Percent who do 150+ minutes of aerobic physical activity per week} \cr
+    \code{Obese} \tab {Percent  obese residents (BMI 30+)} \cr
+    \code{NonWhite} \tab {Percent nonwhite residents (in 2013)} \cr
+    \code{HeavyDrinkers} \tab {Percent heavy drinkers (men: 3+ drinks/day, women 2+ drinks/day)} \cr
+    \code{Electoral} \tab {Number of state votes in the presidential electoral college} \cr
+    \code{ObamaVote} \tab {Proportion of votes for Obama in 2012 presidential election} \cr
+    \code{ObamaRomney} \tab {State winner in 2012 presidential election (O=Obama, R=Romney)} \cr
+    \code{TwoParents} \tab {Percent of children living in two-parent households} \cr
+    \code{StudentSpending} \tab {School spending (in $1,000 per pupil in 2013)} \cr
+    \code{Insured} \tab {Percent  of adults (ages 18-64) who have any kind of health coverage} \cr
   }
 }
 \details{
-Demographic data for U.S. Sstates
+Information from each of the 50 states of the United States (from 2013 or 2014). \cr
+** Updated for 2e  (original is now USStates1e) **
 }
 \source{
-Various online sources, mostly at www.census.gov
+U.S. Census Bureau, 2009-2013 5-Year American Community Survey\cr
+\emph{http://factfinder.census.gov/faces/tableservices/jsf/pages/} \cr
+\emph{productview.xhtml?pid=ACS_13_5YR_DP03&src=pt}\cr
+\emph{http://factfinder.census.gov/faces/tableservices/jsf/pages/}\cr
+\emph{productview.xhtml?pid=ACS_13_5YR_S1501&src=pt} \cr
+\emph{http://factfinder.census.gov/faces/tableservices/jsf/pages/}\cr
+\emph{productview.xhtml?pid=ACS_13_5YR_B02001&prodType=table }\cr
+\emph{http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml} (Table C23008)
+
+
 }
 
 \keyword{datasets}

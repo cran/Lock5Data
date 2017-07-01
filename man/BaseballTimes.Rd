@@ -21,10 +21,10 @@ Information for a sample of 30 Major League Baseball games played during the 201
   }
 }
 \details{
-Data from a sample of boxscores for Major League Baseball games played in August 2011. 
+Data from a sample of boxscores for Major League Baseball games played in August 2011.
 }
 \source{
-http://www.baseball-reference.com/boxes/2011.shtml
+\emph{http://www.baseball-reference.com/boxes/2011.shtml}
 }
 
 \keyword{datasets}

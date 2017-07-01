@@ -5,11 +5,11 @@
 Commute Atlanta
 }
 \description{
-Commute times and distance for a sample of 500 people in Atlanta
+Commute times and distances for a sample of 500 people in Atlanta
 }
-%\usage{data(CommuteAtlanta)}
+%usage{data(CommuteAtlanta)}
 \format{
-  A dataset with 500 observations on the following 5 variables.
+  A data frame with 500 observations on the following 5 variables.
   \tabular{rl}{
     \code{City} \tab { \code{Atlanta}}\cr
     \code{Age} \tab {Age of the respondent (in years)}\cr
@@ -19,12 +19,12 @@ Commute times and distance for a sample of 500 people in Atlanta
   }
 }
 \details{
-Data from the US Census Bureau's American Housing Survey (AHS) which contains information about housing and living conditions for samples from certain metropolitan areas. 
-These data were extracted respondents in the Atlanta metropolitan area. They include only cases where the respondent worked somewhere other than home. 
+Data from the US Census Bureau's American Housing Survey (AHS) which contains information about housing and living conditions for samples from certain metropolitan areas.
+These data were extracted from respondents in the Atlanta metropolitan area. They include only cases where the respondent worked somewhere other than home.
 Values show the time (in minutes) and distance (in miles) that respondents typically traveled on their commute to work each day as well as age and sex.
 }
 \source{
-Sample chosen using DataFerret at http://www.thedataweb.org/index.html.
+Sample chosen using DataFerret at \emph{http://www.thedataweb.org/index.html}.
 }
 
 \keyword{datasets}

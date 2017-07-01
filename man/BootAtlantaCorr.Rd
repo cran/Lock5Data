@@ -5,13 +5,13 @@
 Bootstrap Correlations for Atlanta Commutes
 }
 \description{
-Boostrap correlations between Time and Distance for 500 commuters in Atlanta
+Bootstrap correlations between Time and Distance for 500 commuters in Atlanta
 }
 %\usage{data(BootAtlantaCorr)}
 \format{
   A dataset with 1000 observations on the following variable.
   \tabular{rl}{
-    \code{CorrTimeDist} \tab {Correlation between Time and Distance for a bootstrap sample of Atlanta commuters}\cr
+    \code{CorrTimeDist} \tab {Correlation between Time and Distance for a bootstrap sample of Atlanta commuters}
   }
 }
 \details{

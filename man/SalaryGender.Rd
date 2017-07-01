@@ -19,7 +19,7 @@ Salaries for college teachers
 A random sample of college teachers taken from the 2010 American Community Survey (ACS) 1-year Public Use Microdata Sample (PUMS).
 }
 \source{
-http://www.census.gov/acs/www/data documentation/public use microdata sample/
+Downloaded from \emph{https://www.census.gov/programs-surveys/acs/data/pums.html}
 }
 
 \keyword{datasets}

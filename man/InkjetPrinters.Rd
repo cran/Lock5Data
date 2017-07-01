@@ -21,7 +21,7 @@ Data from online reviews of inkjet printers
 Information from reviews of inkjet printers at PCMag.com in August 2011.
 }
 \source{
-Inkjet printer reviews found at http://www.pcmag.com/reviews/printers, August 2011.
+Inkjet printer reviews found at \emph{http://www.pcmag.com/reviews/printers}, August 2011.
 }
 
 \keyword{datasets}

@@ -14,8 +14,9 @@ Weight gain for mice with different nighttime light conditions
   }
 }
 \details{
-This is a subset of the LightatNight dataset, showing body mass gain in mice after 4 weeks for two of the treatment conditions: 
-a normal light/dark cycle (LD) or a bright light on at night (LL). 
+This is a subset of the LightatNight dataset, showing body mass gain in mice after 4 weeks for two of the treatment conditions:
+a normal light/dark cycle (LD) or a bright light on at night (LL).  \cr
+** In first edition, but not 2e **
 }
 \source{
 Fonken, L., et. al., "Light at night increases body mass by shifting time of food intake," Proceedings of the National

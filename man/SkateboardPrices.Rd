@@ -13,7 +13,7 @@ Prices of skateboards for sale online
   }
 }
 \details{
-Prices for skateboards offered for sale on eBay. 
+Prices for skateboards offered for sale on eBay.
 }
 \source{
 Random sample taken from all skateboards available for sale on eBay on February 12, 2012.

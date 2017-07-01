@@ -2,27 +2,27 @@
 \alias{OlympicMarathon}
 \docType{data}
 \title{
-2008 Olympic Men's Marathon
+2012 Olympic Men's Marathon
 }
 \description{
-Times for all finishers in the men's marathon at the 2008 Olympics
+Times for all finishers in the men's marathon at the 2012 Olympics
 }
 %\usage{data(OlympicMarathon)}
 \format{
-  A dataset with 76 observations on the following 5 variables.
+  A data frame with 85 observations on the following 4 variables.
   \tabular{rl}{
-    \code{Rank} \tab {Order of finish}\cr
-    \code{Athlete} \tab {Name of marathoner}\cr
-    \code{Nationality} \tab {Country of marathoner}\cr
-    \code{Time} \tab {Time as H:MM:SS}\cr
-    \code{Minutes} \tab {Time in minutes}\cr
+    \code{Athlete} \tab {Name of marathoner} \cr
+    \code{Country} \tab {Nationality of marathoner (3 letter country code)} \cr
+    \code{Time} \tab {Time as H:MM:SS} \cr
+    \code{Minutes} \tab {Time in minutes}
   }
 }
 \details{
-Results for all finishers in the 2008 Men's Olympic marathon in Beijing, China. 
+Results for all finishers in the 2012 Men's Olympic marathon in London, England. \cr
+** This is an updated version (previous is now in OlympicMarathon1e) **
 }
 \source{
-http://2008olympics.runnersworld.com/2008/08/mens-marathon-results.html
+\emph{http://www.olympic.org/olympic-results/london-2012/athletics/marathon-m}, accessed October 2015.
 }
 
 \keyword{datasets}

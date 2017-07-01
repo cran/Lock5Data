@@ -17,7 +17,7 @@ Scores from the 2011 Masters golf tournament
 Data for a random sample of 20 golfers who made the cut at the 2011 Masters golf tournament.
 }
 \source{
-2011 Masters tournament results at http://www.masters.com/en_US/discover/past_winners.html
+2011 Masters tournament results at \emph{http://www.masters.com/en_US/discover/past_winners.html}
 }
 
 \keyword{datasets}

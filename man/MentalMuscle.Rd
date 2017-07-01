@@ -19,7 +19,7 @@ In this study, participants were asked to either perform actual arm pointing mot
 imagine equivalent arm pointing motions. Participants then developed muscle fatigue by holding a
 heavy weight out horizontally as long as they could. After becoming fatigued, they were asked to
 repeat the previous mental or actual motions. Eight participants were assigned to each group, and
-the time in seconds to complete the motions was measured before and after fatigue. 
+the time in seconds to complete the motions was measured before and after fatigue.
 }
 \source{
 Data approximated from summary statistics in: Demougeot L. and Papaxanthis C., "Muscle Fatigue Affects Mental Simulation

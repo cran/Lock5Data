@@ -5,13 +5,13 @@
 Baseball Hits
 }
 \description{
-Number of hits and wins for MLB teams
+Number of hits, wins, and other stats for MLB teams - 2014
 }
 %\usage{data(BaseballHits)}
 \format{
   A dataset with 30 observations on the following 14 variables.
   \tabular{rl}{
-    \code{Team} \tab {Name of baseball team}\cr
+    \code{Team} \tab {Name of baseball team (3-character code)}\cr
     \code{League} \tab {Either \code{AL} or \code{NL}}\cr
     \code{Wins} \tab {Number of wins for the season}\cr
     \code{Runs} \tab {Number of runs scored}\cr
@@ -28,10 +28,11 @@ Number of hits and wins for MLB teams
   }
 }
 \details{
-Data from the 2010 Major League Baseball regular season. 
+Data from the 2014 Major League Baseball regular season. \cr
+** Updated for 2e (original is now BaseballHits1e)
 }
 \source{
-http://www.baseball-reference.com/leagues/MLB/2011-standard-batting.shtml
+\emph{http://www.baseball-reference.com/leagues/MLB/2014-standard-batting.shtml}
 }
 
 \keyword{datasets}

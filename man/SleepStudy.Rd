@@ -3,7 +3,7 @@
 \docType{data}
 \title{Sleep Study}
 \description{
-Data from a study of sleep patterns for college students. 
+Data from a study of sleep patterns for college students.
 }
 %\usage{data(SleepStudy)}
 \format{
@@ -39,12 +39,12 @@ Data from a study of sleep patterns for college students.
   }
 }
 \details{
-The data were obtained from a sample of students who did skills tests to measure cognitive function, 
-completed a survey that asked many questions about attitudes and habits, 
+The data were obtained from a sample of students who did skills tests to measure cognitive function,
+completed a survey that asked many questions about attitudes and habits,
 and kept a sleep diary to record time and quality of sleep over a two week period.
 }
 \source{
-Onyper, S., Thacher, P., Gilbert, J., Gradess, S., "Class Start Times, Sleep, and Academic Performance in College: 
+Onyper, S., Thacher, P., Gilbert, J., Gradess, S., "Class Start Times, Sleep, and Academic Performance in College:
 A Path Analysis," April 2012; 29(3): 318-335.  Thanks to the authors for supplying the data.
 }
 

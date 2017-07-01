@@ -5,19 +5,19 @@
 Malevolent Uniforms NFL
 }
 \description{
-Perceived malevolence of uniforms and penalies for National Football League (NFL) teams
+Perceived malevolence of uniforms and penalties for National Football League (NFL) teams
 }
 %\usage{data(MalevolentUniformsNFL)}
 \format{
   A dataset with 28 observations on the following 3 variables.
   \tabular{rl}{
-    \code{NFLTeam} \tab {Team name}\cr
-    \code{NFL_Malevolence} \tab {Score reflecting the "malevolence" of a team's uniform}\cr
-    \code{ZPenYds} \tab {Z-score for penalty yards}\cr
+    \code{NFLTeam} \tab {Team name} \cr
+    \code{NFL_Malevolence} \tab {Score reflecting the "malevolence" of a team's uniform} \cr
+    \code{ZPenYds} \tab {Z-score for penalty yards} \cr
   }
 }
 \details{
-Participants with no knowledge of the teams rated the jerseys 
+Participants with no knowledge of the teams rated the jerseys
 on characteristics such as timid/aggressive, nice/mean and good/bad. The averages of these responses
 produced a "malevolence" index with higher scores signifying impressions of more malevolent uniforms. To
 measure aggressiveness, the authors used the amount of penalty yards converted to z-scores and averaged for each team over the seasons from 1970-1986.

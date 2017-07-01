@@ -11,13 +11,13 @@ Sample of 50 body temperatures
 \format{
   A dataset with 50 observations on the following 3 variables.
   \tabular{rl}{
-    \code{BodyTemp} \tab {Body temperatures in degrees F}\cr
-    \code{Pulse} \tab {Pulse rates (beats per minute)}\cr
+    \code{BodyTemp} \tab {Body temperature in degrees F}\cr
+    \code{Pulse} \tab {Pulse rates (beat per minute)}\cr
     \code{Gender} \tab {F=Female, M=Male}\cr
   }
 }
 \details{
-Body temperatures and pulse rates for a sample of 50 healthy adults.  
+Body temperatures and pulse rates for a sample of 50 healthy adults.
 }
 \source{
 Shoemaker, What's Normal: Temperature, Gender and Heartrate, Journal of Statistics Education, Vol. 4, No. 2

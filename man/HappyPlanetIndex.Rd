@@ -10,7 +10,8 @@ Measurements related to happiness and well-being for 143 countries.
   A dataset with 143 observations on the following 11 variables.
  \tabular{rl}{
     \code{Country} \tab {Name of country}\cr
-    \code{Region} \tab {Three-digit country code}\cr
+    \code{Region} \tab {\code{1}=Latin America, \code{2}=Western nations, \code{3}=Middle East, \code{4}=Sub-Saharan Africa, } \cr
+    { } \tab {\code{5}=South Asia, \code{6}=East Asia, \code{7}=former Communist countries}\cr
     \code{Happiness} \tab {Score on a 0-10 scale for average level of happiness (10 is happiest)}\cr
     \code{LifeExpectancy} \tab {Average life expectancy (in years)}\cr
     \code{Footprint} \tab {Ecological footprint - a measure of the (per capita) ecological impact}\cr
@@ -27,10 +28,8 @@ Data for 143 countries from the Happy Planet Index Project that works
 to quantify indicators of happiness, well-being, and ecological footprint at a country level.
 }
 \source{
- Data downloaded from http://www.happyplanetindex.org/data/
-}
-\references{
-Marks, N., "The Happy Planet Index", www.TED.com/talks, August 29, 2010.
+Marks, N., "The Happy Planet Index", www.TED.com/talks, August 29, 2010. \cr
+Data downloaded from \emph{http://www.happyplanetindex.org/data/}
 }
 
 \keyword{datasets}

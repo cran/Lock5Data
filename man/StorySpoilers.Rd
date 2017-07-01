@@ -3,7 +3,7 @@
 \docType{data}
 \title{Story Spoilers}
 \description{
-Raitngs for stories with and without spoilers
+Ratings for stories with and without spoilers
 }
 %\usage{data(StorySpoilers)}
 \format{
@@ -16,11 +16,11 @@ Raitngs for stories with and without spoilers
 }
 \details{
 This study investigated whether a story spoiler that gives away the ending early diminishes suspense
-and hurts enjoyment?  For twelve different short stories, the
+and hurts enjoyment.  For twelve different short stories, the
 study's authors created a second version in which a spoiler paragraph at the beginning discussed the
 story and revealed the outcome. Each version of the twelve stories was read by at least 30 people and
 rated on a 1 to 10 scale to create an overall rating for the story, with higher ratings indicating greater
-enjoyment of the story.  Stories 1 to 4 were ironic twist stories, stories 5 to 8 were mysteries, 
+enjoyment of the story.  Stories 1 to 4 were ironic twist stories, stories 5 to 8 were mysteries,
 and stories 9 to 12 were literary stories.
 }
 \source{

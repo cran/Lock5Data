@@ -6,15 +6,15 @@
 Lock5 Datasets
 }
 \description{
-Datasets for Statistics: Unlocking the Power of Data \cr
-by Lock, Lock, Lock, Lock and Lock
+Datasets for first and second editions of Statistics: Unlocking the Power of Data
+by Lock^5 \cr
 }
 \details{
 \tabular{ll}{
 Package: \tab Lock5Data\cr
 Type: \tab Package\cr
-Version: \tab 2.6\cr
-Date: \tab 2012-08-20\cr
+Version: \tab 2.8\cr
+Date: \tab 2017-06-30\cr
 License: \tab GPL-2\cr
 LazyLoad: \tab yes\cr
 }

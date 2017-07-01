@@ -16,10 +16,10 @@ Finger tap rates with and without caffeine
   }
 }
 \details{
-Results from a double-blind experiment where a sample of male college students 
+Results from a double-blind experiment where a sample of male college students were asked
 to tap their fingers at a rapid rate. The sample was then divided at random
-into two groups of ten students each. 
-Each student drank the equivalent of about two cups of coffee, which included 
+into two groups of ten students each.
+Each student drank the equivalent of about two cups of coffee, which included
 about 200 mg of caffeine for the students in one group but was decaffeinated coffee for the second group. After a two hour period, each student was tested to measure finger tapping rate (taps per minute). The goal of the experiment was to determine whether caffeine
 produces an increase in the average tap rate.
 }

@@ -3,7 +3,7 @@
 \docType{data}
 \title{Employed in American Community Survey}
 \description{
-Employed individiuals from the American Community Survey (ACS) dataset
+Employed individuals from the American Community Survey (ACS) dataset
 }
 %\usage{data(EmployedACS)}
 \format{
@@ -25,9 +25,9 @@ This is a subset of the ACS dataset including only 431 individuals who were empl
 }
 \source{
 The full public dataset can be downloaded at \cr
- http://www.census.gov/acs/www/data documentation/pums data/, \cr
+\emph{http://www.census.gov/acs/www/data documentation/pums data/}, \cr
 and the full list of variables are at \cr
-http://www.census.gov/acs/www/Downloads/data documentation/pums/DataDict/PUMSDataDict10.pdf.
+\emph{http://www.census.gov/acs/www/Downloads/data documentation/pums/DataDict/PUMSDataDict10.pdf}
 }
 
 \keyword{datasets}

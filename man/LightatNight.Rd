@@ -3,30 +3,25 @@
 \docType{data}
 \title{Light at Night for Mice}
 \description{
-Data from an experiment with mice having different nighttime light conditions
+Data on body mass gain from an experiment with mice having different nighttime light conditions
 }
 %\usage{data(LightatNight)}
 \format{
-  A dataset with 27 observations on the following 9 variables.
+  A dataset with 18 observations on the following 2 variables.
   \tabular{rl}{
-    \code{Light} \tab {\code{DM}=dim light at night, \code{LD}=dark at night, or \code{LL}=bright light at night}\cr
-    \code{BMGain} \tab {Body mass gain (in grams over a four week period)}\cr
-    \code{Corticosterone} \tab {Blood corticosterene level (a measure of stress)}\cr
-    \code{DayPct} \tab {Percent of calories eaten during the day}\cr
-    \code{Consumption} \tab {Daily food consumption (grams)}\cr
-    \code{GlucoseInt} \tab {Glucose intolerant? \code{No} or \code{Yes}}\cr
-    \code{GTT15} \tab {Glucose level in the blood 15 minutes after a glucose injection}\cr
-    \code{GTT120} \tab {Glucose level in the blood 120 minutes after a glucose injection}\cr
-    \code{Activity} \tab {A measure of physical activity level}\cr
+    \code{Group} \tab {\code{Light}=dim light at night or \code{Dark}=dark at night}\cr
+    \code{BMGain} \tab {Body mass gain (in grams over a three week period)}\cr
   }
 }
 \details{
-In this study, 27 mice were randomly split into three groups. One group was on a normal light/dark
-cycle (LD), one group had bright light on all the time (LL), and one group had light during the day and
-dim light at night (DM). The dim light was equivalent to having a television set on in a room. The mice in
+In this study, 18 mice were randomly split into two groups. One group was on a normal light/dark
+cycle (\code{Dark}) and the other group had light during the day and dim light at night (\code{Light}).
+The dim light was equivalent to having a television set on in a room. The mice in
 darkness ate most of their food during their active (nighttime) period, matching the behavior of mice in the
-wild. The mice in both dim light and bright light, however, consumed more than half of their food during
-the well-lit rest period, when most mice are sleeping.
+wild. The mice with dim light at night, however, consumed much of their food during
+the well-lit rest period, when most mice are usually sleeping. The change in body mass was recorded after three weeks.\cr
+** See also LightatNight4Weeks or LightatNight8Weeks for more variables measured at other points in the same experiment,
+with a third experimental condition which had 9 additional mice with a bright light on all the time. **
 }
 \source{
 Fonken, L., et. al., "Light at night increases body mass by shifting time of food intake," Proceedings of the National
