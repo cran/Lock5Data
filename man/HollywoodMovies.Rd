@@ -3,38 +3,37 @@
 \docType{data}
 \title{Hollywood Movies}
 \description{
-Data on movies released in Hollywood between 2007 and 2013
+Data on movies released in Hollywood between 2012 and 2018
 }
-%\usage{data(HollywoodMovies)}
 \format{
-  A dataset with 970 observations on the following 16 variables.
-  \tabular{rl}{
-    \code{Movie} \tab {Title of movie} \cr
-    \code{LeadStudio} \tab {Studio that released the movie} \cr
-    \code{RottenTomatoes} \tab {Rotten Tomatoes rating (reviewers)} \cr
-    \code{AudienceScore} \tab {Audience rating (via Rotten Tomatoes)} \cr
-    \code{Story} \tab {General theme - one of 21 themes} \cr
-    \code{Genre} \tab {One of 14 possible genres} \cr
-    \code{TheatersOpenWeek} \tab {Number of screens for opening weekend} \cr
-    \code{OpeningWeekend} \tab {Opening weekend gross (in $ millions)} \cr
-    \code{BOAverageOpenWeek} \tab {Average opening week box office income (per theater)} \cr
-    \code{DomesticGross} \tab {Gross income for domestic viewers (in $ millions)} \cr
-    \code{ForeignGross} \tab {Gross income for foreign viewers (in $ millions)} \cr
-    \code{WorldGross} \tab {Gross income for all viewers (in $ millions)} \cr
-    \code{Budget} \tab {Production budget (in $ millions)} \cr
-    \code{Profitability} \tab {WorldGross as a percentage of Budget} \cr
-    \code{OpenProfit} \tab {Percentage of budget recovered on opening weekend} \cr
-    \code{Year}  \tab {Year the movie was released} \cr
+  A data frame with 1295 observations on the following 15 variables.
+  \describe{
+    \item{\code{Movie}}{Title of the movie}
+    \item{\code{LeadStudio}}{Primary U.S. distributor of the movie}
+    \item{\code{RottenTomatoes}}{Rotten Tomatoes rating (critics)}
+    \item{\code{AudienceScore}}{Audience rating (via Rotten Tomatoes)}
+    \item{\code{Genre}}{One of  \code{Action} \code{Adventure}, \code{Black Comedy}, \code{Comedy}, \code{Concert}, \code{Documentary}, \code{Drama}, \code{Horror}, \code{Musical}, \code{Romantic Comedy}, \code{Thriller}, or \code{Western}}
+    \item{\code{TheatersOpenWeek}}{Number of screens for opening weekend }
+    \item{\code{OpeningWeekend}}{Opening weekend gross (in millions) }
+    \item{\code{BOAvgOpenWeekend}}{Average box office income per theater, opening weekend}
+    \item{\code{Budget}}{Production budget (in millions)}
+    \item{\code{DomesticGross}}{Gross income for domestic (U.S.) viewers (in millions)}
+    \item{\code{WorldGross}}{Gross income for all viewers (in millions)}
+    \item{\code{ForeignGross}}{Gross income for foreign viewers (in millions)}
+    \item{\code{Profitability}}{WorldGross as a percentage of Budget}
+    \item{\code{OpenProfit}}{Percentage of budget recovered on opening weekend}
+    \item{\code{Year}}{Year the movie was released}
   }
 }
 \details{
-Information from 970 movies released from Hollywood between 2007 and 2013. \cr
-** This daatset is updated from an earlier version (HollywoodMovies2011) **
+Information from 1295 movies released from Hollywood between 2012 and 2018. \cr
+** Updated for 3e (earlier versions are HollywoodMovies2013 and HollywoodMovies2011). **
 }
 \source{
-McCandless, D., "Most Profitable Hollywood Movies" from "Information is Beautiful" at \cr
-\emph{http://www.informationisbeautiful,net.data/} and  \cr
-\emph{http://bit.ly/hollywoodbudgets}.
-}
+Movie data obtained from \cr
+\url{https://www.boxofficemojo.com/} \cr
+\url{https://www.the-numbers.com/} \cr
+\url{https://www.rottentomatoes.com/}
 
+}
 \keyword{datasets}

@@ -41,7 +41,7 @@ Data from the 2014-2015 regular season for 182 NBA basketball players.
 }
 \details{
 Data for 182 NBA basketball players from the 2014-2015 regular season.  Includes all players who averaged more than 24 minutes per game that season. \cr
-** Data set updated for 2e (original is NBAPlayers2011) **
+** From 2e - dataset has been updated for 3e **
 }
 \source{
 \emph{http://www.basketball-reference.com/leagues/NBA_2015_stats.html}

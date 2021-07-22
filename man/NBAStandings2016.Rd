@@ -22,7 +22,7 @@ Won-Loss record and statistics for NBA Teams in 2015-2016
 \details{
 Won-Loss record and regular season statistics for 30 teams in the National Basketball Association
 for the 2015-2016 season. \cr
-** Data set updated for 2e (original is NBAStandings1e) **
+** From 2e - dataset has been updated for 3e **
 }
 \source{
 Data downloaded from \emph{http://www.basketball-reference.com/leagues/NBA_2016_games.html}

@@ -19,7 +19,8 @@ Dollar size of contracts for all NFL players in 2015
   }
 }
 \details{
-This dataset contains salary information for all National Football League (NFL) players under contract for the 2015 season.  Many contracts extend over multiple years, so \code{TotalMoney} gives the overall size of the contract and \code{YearlySalary} indicates how much of that is to be paid for the 2015 season. All amounts are in millions of dollars.
+This dataset contains salary information for all National Football League (NFL) players under contract for the 2015 season.  Many contracts extend over multiple years, so \code{TotalMoney} gives the overall size of the contract and \code{YearlySalary} indicates how much of that is to be paid for the 2015 season. All amounts are in millions of dollars.\cr
+** From 2e - dataset has been updated for 3e **
 }
 \source{
 Contract data collected from  \emph{http://OverTheCap.com}, accessed September 16, 2015.

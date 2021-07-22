@@ -5,22 +5,20 @@
 \description{
 A subset of the \code{AllCountries} data for a random sample of ten countries
 }
-%\usage{data(TenCountries)}
 \format{
-  A dataset with 10 observations on the following 4 variables.
-  \tabular{rl}{
-    \code{Country} \tab {Country name}\cr
-    \code{Code} \tab {Three-letter country code}\cr
-    \code{Area} \tab {Size in 1000 sq. kilometers}\cr
-    \code{PctRural} \tab {Percentage of population living in rural areas}\cr
+  A data frame with 10 observations on the following 4 variables.
+  \describe{
+    \item{\code{Country}}{Country name}
+    \item{\code{Code}}{Three-letter country code}
+    \item{\code{Area}}{Size in 1000 sq. kilometers}
+    \item{\code{PctRural}}{Percentage of population living in rural areas}
   }
 }
 \details{
 Area and percent rural for a sample of ten countries from AllCountries dataset.\cr
-** Updated for 2e (original is now TenCountries1e) **
+** Updated for 3e (earlier versions are now TenCountries2e and TenCountries1e) **
 }
 \source{
-Data collected from the World Bank website, \emph{http://www.worldbank.org}.
+Data collected from the World Bank website, \url{https://www.worldbank.org/en/home}
 }
-
 \keyword{datasets}

@@ -1,49 +1,46 @@
 \name{AllCountries}
 \alias{AllCountries}
 \docType{data}
-\title{
-AllCountries
-}
+\title{All Countries}
 \description{
 Data on the countries of the world
 }
-%\usage{data(AllCountries)}
 \format{
-  A dataset with 215 observations on the following 25 variables.
-  \tabular{rl}{
-    \code{Country} \tab {Name of the country}\cr
-    \code{LandArea} \tab {Size in 1000 sq. kilometers}\cr
-    \code{Population} \tab {Population in millions}\cr
-    \code{Density} \tab {Number of people per square kilometer}\cr
-    \code{GDP} \tab {Gross Domestic Product (in $US) per capita}\cr
-    \code{Rural} \tab {Percentage of population living in rural areas}\cr
-    \code{CO2} \tab {CO2 emissions (metric tons per capita)}\cr
-    \code{PumpPrice} \tab {Price for a liter of gasoline ($US)}\cr
-    \code{Military} \tab {Percentage of government expenditures directed toward the military}\cr
-    \code{Health} \tab {Percentage of government expenditures directed towards healthcare}\cr
-    \code{ArmedForces} \tab {Number of active duty military personnel (in 1,000's)}\cr
-    \code{Internet} \tab {Percentage of the population with access to the internet}\cr
-    \code{Cell} \tab {Cell phone subscriptions (per 100 people)}\cr
-    \code{HIV} \tab {Percentage of the population with HIV}\cr
-    \code{Hunger} \tab {Percent of the population considered undernourished}\cr
-    \code{Diabetes} \tab {Percent of the population diagnosed with diabetes}\cr
-    \code{BirthRate} \tab {Births per 1000 people}\cr
-    \code{DeathRate} \tab {Deaths per 1000 people}\cr
-    \code{ElderlyPop} \tab {Percentage of the population at least 65 years old}\cr
-    \code{LifeExpectancy} \tab {Average life expectancy (years)}\cr
-    \code{FemaleLabor} \tab {Percent of females 15 - 64 in the labor force}\cr
-    \code{Unemployment} \tab {Percent of labor force unemployed}\cr
-    \code{Energy} \tab {Energy usage (kilotons of oil equivalent)}\cr
-    \code{Electricity} \tab {Electric power consumption (kWh per capita)}\cr
-    \code{Developed} \tab {Categories for kilowatt hours per capita, 1= under 2500, 2=2500 to 5000, 3=over 5000}\cr
+  A data frame with 217 observations on the following 26 variables.
+  \describe{
+    \item{\code{Country}}{Country name}
+    \item{\code{Code}}{Three-letter code for country}
+    \item{\code{LandArea}}{Size in 1000 sq. km.}
+    \item{\code{Population}}{Population in millions}
+    \item{\code{Density}}{Number of people per square kilometer}
+    \item{\code{GDP}}{Gross Domestic Product (in $US) per capita}
+    \item{\code{Rural}}{Percentage of population living in rural areas}
+    \item{\code{CO2}}{CO2 emissions (metric tons per capita)}
+    \item{\code{PumpPrice}}{Price for a liter of gasoline ($US)}
+    \item{\code{Military}}{Percentage of government expenditures directed toward the military}
+    \item{\code{Health}}{Percentage of government expenditures directed towards healthcare}
+    \item{\code{ArmedForces}}{Number of active duty military personnel (in 1,000's)}
+    \item{\code{Internet}}{Percentage of the population with access to the internet}
+    \item{\code{Cell}}{Cell phone subscriptions (per 100 people)}
+    \item{\code{HIV}}{Percentage of the population with HIV}
+    \item{\code{Hunger}}{Percent of the population considered undernourished}
+    \item{\code{Diabetes}}{Percent of the population diagnosed with diabetes}
+    \item{\code{BirthRate}}{Births per 1000 people}
+    \item{\code{DeathRate}}{Deaths per 1000 people}
+    \item{\code{ElderlyPop}}{Percentage of the population at least 65 years old}
+    \item{\code{LifeExpectancy}}{Average life expectancy (years)}
+    \item{\code{FemaleLabor}}{Percent of females 15 - 64 in the labor force}
+    \item{\code{Unemployment}}{Percent of labor force unemployed}
+    \item{\code{Energy}}{Kilotons of oil equivalent}
+    \item{\code{Electricity}}{Electric power consumption (kWh per capita)}
+    \item{\code{Developed}}{Categories for kilowatt hours per capita, 1= under 2500, 2=2500 to 5000, 3=over 5000}
   }
 }
 \details{
-Data for each variable were collected for years between 2012 and 2014.  Within a variable all country measurements are from the same year, but the year may vary betwen different variables depending on availabilty. \cr
-** This daatset is updated from an earlier version (now Allcountries1e) **
+Data for each variable were collected for 2018 (or most recently available year).  Within a variable all country measurements are from the same year, but the year may vary between different variables depending on availability. \cr
+** This dataset is updated from an earlier versions (now Allcountries1e and AllCountries2e) **
 }
 \source{
-Data collected from the World Bank website, \emph{worldbank.org}.
+The data were gathered online from \url{https://data.worldbank.org/}.  Accessed June 2019.
 }
-
 \keyword{datasets}

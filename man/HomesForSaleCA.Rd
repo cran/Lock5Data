@@ -1,28 +1,25 @@
 \name{HomesForSaleCA}
 \alias{HomesForSaleCA}
 \docType{data}
-\title{
-Home for Sale in California
-}
+\title{Homes For Sale in California (2019)}
 \description{
 Data for a sample of homes offered for sale in California
 }
-%\usage{data(HomesForSaleCA)}
 \format{
-  A dataset with 30 observations on the following 5 variables.
-  \tabular{rl}{
-    \code{State} \tab {Location of the home: \code{CA} } \cr
-    \code{Price} \tab {Asking price (in $1,000's)} \cr
-    \code{Size} \tab {Area of all rooms (in 1,000's sq. ft.)}\cr
-    \code{Beds} \tab {Number of bedrooms}\cr
-    \code{Baths} \tab {Number of bathrooms}\cr
+  A data frame with 30 observations on the following 5 variables.
+  \describe{
+    \item{\code{State}}{Location of the home (\code{CA})}
+    \item{\code{Price}}{Asking price (in $1,000's)}
+    \item{\code{Size}}{Area of all rooms (in 1,000's sq. ft.)}
+    \item{\code{Beds}}{Number of bedrooms}
+    \item{\code{Baths}}{Number of bathrooms}
   }
 }
 \details{
-Data for samples of homes for sale in California, selected from \emph{zillow.com}.
+Data fora sample of homes for sale in California, selected from \emph{zillow.com}. This is a subset of the HomesForSale dataset. \cr
+** Updated for 3e (earlier version from 2010 is in HomesForSaleCA2e). **
 }
 \source{
-Data collected from \emph{www.zillow.com} in 2010.
+Data collected from \url{https://www.zillow.com/} in 2019.
 }
-
 \keyword{datasets}

@@ -3,24 +3,24 @@
 \docType{data}
 \title{City Temperatures}
 \description{
-Mean monthly temperature in Moscow, Melbourne, and San Francisco for 2014 and 2015
+Mean monthly temperature in Moscow, Melbourne, and San Francisco for 2017 and 2018
 }
-%\usage{data(Cereal)}
 \format{
-  A dataset with 24 observations on the following 5 variables.
-  \tabular{rl}{
-    \code{Year} \tab {2014 or 2015}\cr
-    \code{Month} \tab {1=January to 12=December}\cr
-    \code{Moscow} \tab {Monthly temperatures in Moscow (Russia)}\cr
-    \code{Melbourne} \tab {Monthly temperatures in Melbourne (Australia)}\cr
-    \code{SanFrancisco} \tab {Monthly temperatures in San Francisco (United States)}\cr
+  A data frame with 24 observations on the following 5 variables.
+  \describe{
+    \item{\code{Year}}{2017 or 2018}
+    \item{\code{Month}}{1=January through 12=December}
+    \item{\code{Moscow}}{Monthly temperatures in Moscow (Russia)}
+    \item{\code{Melbourne}}{Monthly temperatures in Melbourne (Australia)}
+    \item{\code{San.Francisco}}{Monthly temperatures in San Francisco (United States)}
   }
 }
 \details{
-Mean monthly temperatures in degrees Celsius for the years 2014 and 2015 in each of three cities.
+Mean monthly temperatures in degrees C for the years 2017 and 2018 in each of three cities. \cr 
+** Updated for 3e (an earlier version for 2014 and 2015 is at CityTemps2e). **
 }
 \source{
-KNMI Climate Explorer at \emph{https://climexp.knmi.nl/selectstation.cgi?id=someone@somewhere}
-}
+Source:  KNMI Climate Explorer at \url{https://climexp.knmi.nl/selectstation.cgi?id=someone@somewhere} Use station codes 94866 (Melbourne), 72494 (San Francisco), 27612 (Moscow).
 
+}
 \keyword{datasets}

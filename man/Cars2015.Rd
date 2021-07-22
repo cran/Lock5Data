@@ -2,10 +2,10 @@
 \alias{Cars2015}
 \docType{data}
 \title{
-2015 Car Models
+2020 Car Models
 }
 \description{
-Information about new car models in 2015
+Information about new car models in 2020
 }
 %\usage{data(Cars2015)}
 \format{
@@ -34,12 +34,11 @@ Information about new car models in 2015
   }
 }
 \details{
-Data for a set of 110 new car models in 2015 based on information in the Consumer Reports New Car Buying Guide.
+Data for a set of 110 new car models in 2015 based on information in the Consumer Reports.\cr
+** From 2e - dataset has been updated for 3e **
 }
 \source{
-Consumer Reports 2015 New Car Buying Guide \cr
-\emph{http://www.magastack.com/issue/6053-consumer-reports-new-car-buying-guide-february-2015?page=1}
-\emph{http://www.consumerreports.org/cro/cars/compare.htm?add=true&product=new/chevrolet/impala}
+Data on new car models in 2020 accessed from Consumer Reports website. \url{https://www.consumerreports.org/cars/}
 }
 
 \keyword{datasets}

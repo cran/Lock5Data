@@ -15,7 +15,7 @@ Variables related to nutrition and health for 315 individuals
     \code{Age} \tab {Subject's age (in years)} \cr
     \code{Smoke} \tab {Smoker? coded as \code{No} or \code{Yes}} \cr
     \code{Quetelet} \tab {Weight/(Height^2)} \cr
-    \code{Vitamin} \tab {Vitamin use: coded as \code{1}=Regulary, \code{2}=Occasionally, or \code{3}=No} \cr
+    \code{Vitamin} \tab {Vitamin use: coded as \code{1}=Regularly, \code{2}=Occasionally, or \code{3}=No} \cr
     \code{Calories} \tab {Number of calories consumed per day} \cr
     \code{Fat} \tab {Grams of fat consumed per day} \cr
     \code{Fiber} \tab {Grams of fiber consumed per day} \cr
@@ -25,7 +25,7 @@ Variables related to nutrition and health for 315 individuals
     \code{RetinolDiet} \tab {Dietary retinol consumed (mcg per day)} \cr
     \code{BetaPlasma} \tab {Plasma beta-carotene (ng/ml)} \cr
     \code{RetinolPlasma} \tab {Plasma retinol (ng/ml)} \cr
-    \code{Gender} \tab {Coded as \code{Female} or \code{Male}} \cr
+    \code{Sex} \tab {Coded as \code{Female} or \code{Male}} \cr
     \code{VitaminUse} \tab {Coded as \code{No} \code{Occasional} \code{Regular}} \cr
     \code{PriorSmoke} \tab {Smoking status: coded as \code{1}=Never, \code{2}=Former, or \code{3}=Current} \cr
   }

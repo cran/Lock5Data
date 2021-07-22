@@ -13,7 +13,7 @@ Flight times for Flight 179 (Boston-SF) and Flight 180 (SF-Boston).
   \tabular{rl}{
     \code{Date} \tab {Date of the flight (5th, 15th and 25th of each month in 2010} \cr
     \code{Flight179} \tab {Flying time (Boston-SF) in minutes} \cr
-    \code{Flight180} \tab {Fllying time (SF-Boston) in minutes} \cr
+    \code{Flight180} \tab {Flying time (SF-Boston) in minutes} \cr
   }
 }
 \details{

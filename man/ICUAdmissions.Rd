@@ -23,7 +23,7 @@ Data from patients admitted to an intensive care unit
     \code{CPR} \tab {Patient gets CPR prior to admission? \code{0}=no or \code{1}=yes} \cr
     \code{Systolic} \tab {Systolic blood pressure (in mm of Hg)} \cr
     \code{HeartRate} \tab {Pulse rate (beats per minute)} \cr
-    \code{Previous} \tab {Previous admission to ICU wihtin 6 months? \code{0}=no or \code{1}=yes} \cr
+    \code{Previous} \tab {Previous admission to ICU within 6 months? \code{0}=no or \code{1}=yes} \cr
     \code{Type} \tab {Admission type: \code{0}=elective or \code{1}=emergency} \cr
     \code{Fracture} \tab {Fractured bone involved? \code{0}=no or \code{1}=yes} \cr
     \code{PO2} \tab {Partial oxygen level from blood gases under 60? \code{0}=no or \code{1}=yes} \cr

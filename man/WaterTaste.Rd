@@ -16,7 +16,7 @@ Blind taste test to compare brands of bottled water
     \code{Class} \tab {Year in school \code{F}=First year \code{J}=Junior \code{O}=Other \code{P} \code{SO}=Sophomore \code{SR}=Senior} \cr
     \code{UsuallyDrink} \tab {Usual source of drinking water: \code{Bottled}, \code{Filtered}, or \code{Tap}} \cr
     \code{FavBotWatBrand} \tab {Favorite brand of bottled water } \cr
-    \code{Preference} \tab {Order of perference: \code{A}=Sams Choice, \code{B}=Aquafina, \code{C}=Fiji, and \code{D}=Tap water } \cr
+    \code{Preference} \tab {Order of preference: \code{A}=Sams Choice, \code{B}=Aquafina, \code{C}=Fiji, and \code{D}=Tap water } \cr
     \code{First} \tab {Top choice among \code{Aquafina}, \code{Fiji}, \code{SamsChoice}, or \code{Tap}} \cr
     \code{Second} \tab {Second choice} \cr
     \code{Third} \tab {Third choice } \cr
@@ -25,7 +25,7 @@ Blind taste test to compare brands of bottled water
 }
 \details{
 Result from a blind taste test comparing four different types of water
-(Sam's Choice, Aqufina, Fiji, and tap water).  Participants rank ordered waters when presented in a random order.
+(Sam's Choice, Aquafina, Fiji, and tap water).  Participants rank ordered waters when presented in a random order.
 }
 \source{
 "Water Taste Test Data" by M. Leigh Lunsford and Alix D. Dowling Finch in the Journal of Statistics Education (Vol 18, No, 1) 2010 \cr

@@ -1,22 +1,20 @@
 \name{ManhattanApartments}
 \alias{ManhattanApartments}
 \docType{data}
-\title{Manhattan Apartment Prices}
+\title{Manhattan Apartment Prices (2019)}
 \description{
-Monthly rent for one-bedroom apartments in Manhattan, NY
+Apartment prices for sale in Manhattan in 2019
 }
-%\usage{data(ManhattanApartments)}
 \format{
-  A dataset with 20 observations on the following variable.
-  \tabular{rl}{
-    \code{Rent} \tab {Montly rent in dollars}\cr
+  A data frame with 20 observations on the following variable.
+  \describe{
+    \item{\code{Rent}}{Monthly rent (in dollars)}
   }
 }
 \details{
-Monthly rents for a sample of 20 one-bedroom apartments in Manhattan, NY that were advertised on Craig's List in July, 2011.
+Monthly rents for a sample of 20 one-bedroom apartments in Manhattan, NY that were advertised on Craig's List in November, 2019.
 }
 \source{
-Apartments advertised on Craig's List at \emph{newyork.craigslist.org}, July 5, 2011.
+Apartments newly advertised on Craig's List at \url{https://newyork.craigslist.org/}, November, 2019.
 }
-
 \keyword{datasets}

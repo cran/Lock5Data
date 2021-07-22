@@ -30,7 +30,7 @@ Game log data for the Miami Heat basketball team in 2010-11
     \code{Turnovers} \tab {Number of turnovers} \cr
     \code{Fouls} \tab {Number of fouls} \cr
     \code{Points} \tab {Number of points scored} \cr
-    \code{OppFG} \tab {Opponet's field goals made} \cr
+    \code{OppFG} \tab {Opponent's field goals made} \cr
     \code{OppFGA} \tab {Opponent's Field goals attempted} \cr
     \code{OppFG3} \tab {Opponent's Three-point field goals made} \cr
     \code{OppFG3A} \tab {Opponent's Three-point field goals attempted} \cr

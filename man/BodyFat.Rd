@@ -15,9 +15,9 @@ Percent fat and other body measurements for a sample of men
     \code{Height} \tab {Height in inches}\cr
     \code{Neck} \tab {Neck circumference in cm.}\cr
     \code{Chest} \tab {Chest circumference in cm.}\cr
-    \code{Abdomen} \tab {Abdomen cirumference in cm.}\cr
+    \code{Abdomen} \tab {Abdomen circumference in cm.}\cr
     \code{Ankle} \tab {Ankle circumference in cm.}\cr
-    \code{Biceps} \tab {Exended biceps circumference in cm.}\cr
+    \code{Biceps} \tab {Extended biceps circumference in cm.}\cr
     \code{Wrist} \tab {Wrist circumference in cm. }
   }
 }

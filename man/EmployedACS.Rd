@@ -5,29 +5,30 @@
 \description{
 Employed individuals from the American Community Survey (ACS) dataset
 }
-%\usage{data(EmployedACS)}
 \format{
-  A dataset with 431 observations on the following 9 variables.
-  \tabular{rl}{
-    \code{Sex} \tab {0=female and 1=male}\cr
-    \code{Age} \tab {Age (years)}\cr
-    \code{Married}\tab {0=not married and 1=married}\cr
-    \code{Income} \tab {Wages and salary for the past 12 months (in $1,000's)}\cr
-    \code{HoursWk} \tab {Hours of work per week}\cr
-    \code{Race} \tab {\code{asian}, \code{black}, \code{white}, or \code{other}}\cr
-    \code{USCitizen} \tab {1=citizen and 0=noncitizen}\cr
-    \code{HealthInsurance} \tab {1=have health insurance and 0= no health insurance}\cr
-    \code{Language} \tab {1=native English speaker and 0=other}\cr
+  A data frame with 1287 observations on the following 9 variables.
+  \describe{
+    \item{\code{Sex}}{0=female and 1=male}
+    \item{\code{Age}}{Age (years)}
+    \item{\code{Married}}{0=not married and 1=married}
+    \item{\code{Income}}{Wages and salary for the past 12 months (in $1,000's)}
+    \item{\code{HoursWk}}{Hours of work per week}
+    \item{\code{Race}}{ \code{asian}, \code{black}, \code{other}, \code{white}}
+    \item{\code{USCitizen}}{1=citizen and 0=noncitizen}
+    \item{\code{HealthInsurance}}{1=have health insurance and 0= no health insurance}
+    \item{\code{Language}}{1=native English speaker and 0=other}
   }
 }
 \details{
-This is a subset of the ACS dataset including only 431 individuals who were employed.
-}
-\source{
-The full public dataset can be downloaded at \cr
-\emph{http://www.census.gov/acs/www/data documentation/pums data/}, \cr
-and the full list of variables are at \cr
-\emph{http://www.census.gov/acs/www/Downloads/data documentation/pums/DataDict/PUMSDataDict10.pdf}
+This is a subset of the ACS dataset including only 1287 individuals who were employed. (HoursWk>0) \cr
+** Updated for 3e (an earlier version is at EmployedACS2010). **
 }
 
+\source{
+The full public dataset can be downloaded at
+\url{https://www.census.gov/programs-surveys/acs/microdata/access.html},
+and the full list of variables is at
+\url{https://www.census.gov/programs-surveys/acs/microdata.html}
+
+}
 \keyword{datasets}

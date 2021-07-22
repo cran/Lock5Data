@@ -16,7 +16,7 @@ Respiration rate for fish in three levels of calcium.
   }
 }
 \details{
-Fish were randomly assigned to three tanks with different levels (low, medium and high) levels of calcium.
+Fish were randomly assigned to three tanks with different levels (low, medium and high) of calcium.
 Respiration rate was measured as number of gill beats per minute.
 }
 \source{

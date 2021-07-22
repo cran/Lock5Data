@@ -2,7 +2,7 @@
 \alias{USStates1e}
 \docType{data}
 \title{
-US State Data
+US State Data - 1e
 }
 \description{
 Various data for all 50 US States
@@ -32,7 +32,7 @@ Various data for all 50 US States
 }
 \details{
 Information from each of the 50 states of the United States. \cr
-** From 1e - dataset has been updated for 2e **
+** From 1e - dataset has been updated for 2e and 3e **
 }
 \source{
 Various online sources, mostly at \emph{www.census.gov}

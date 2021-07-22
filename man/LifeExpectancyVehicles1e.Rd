@@ -3,7 +3,7 @@
 \docType{data}
 \title{Life Expectancy and Vehicle Registrations - 1e}
 \description{
-Yearly US life expectancy and number of reistered vehicles (1970-2009)
+Yearly US life expectancy and number of registered vehicles (1970-2009)
 }
 %\usage{data(LifeExpectancyVehicles)}
 \format{

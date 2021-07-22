@@ -18,7 +18,8 @@ Opening Day salaries for all Major League Baseball players in 2015
   }
 }
 \details{
-Yearly salary (in millions of dollars) for all players on the rosters of Major League Baseball teams at the start of the 2015 season.
+Yearly salary (in millions of dollars) for all players on the rosters of Major League Baseball teams at the start of the 2015 season.\cr
+** From 2e - dataset has been updated for 3e **
 }
 \source{
 \emph{ http://www.usatoday.com/sports/mlb/salaries}

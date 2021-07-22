@@ -21,7 +21,7 @@ who took the CAOS pre-test at the start of a course and the post-test during the
 Each exam consists of 40 multiple choice questions and the score is the percentage correct.
 }
 \source{
-A sample of 10 students from an introductory statisics course. Find out more about the CAOS exam at \emph{http://app.gen.umn.edu/artist/caos.html}
+A sample of 10 students from an introductory statistics course. Find out more about the CAOS exam at \emph{http://app.gen.umn.edu/artist/caos.html}
 }
 
 

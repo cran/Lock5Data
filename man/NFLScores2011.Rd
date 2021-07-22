@@ -23,7 +23,8 @@ Results for all NFL games for the 2011 regular season
   }
 }
 \details{
-Data for all 256 regular season games in the National Football League (NFL) for the 2011 season.
+Data for all 256 regular season games in the National Football League (NFL) for the 2011 season.\cr
+** From 2e - dataset has been updated for 3e **
 }
 \source{
 NFL scores and game statistics found at \cr

@@ -1,25 +1,24 @@
 \name{EducationLiteracy}
 \alias{EducationLiteracy}
 \docType{data}
-\title{
-Education Literacy
-}
+\title{Education and  Literacy}
 \description{
 Education spending and literacy rates for countries.
 }
-%\usage{data(EducationLiteracy)}
 \format{
-  A dataset with 188 observations on the following 3 variables.
-  \tabular{rl}{
-    \code{Country} \tab {Name of country} \cr
-    \code{Education} \tab {Education spending (as a percentage of GDP)} \cr
-    \code{Literacy} \tab {Literacy rate} \cr
+  A data frame with 170 observations on the following 4 variables.
+  \describe{
+    \item{\code{Country}}{Name of country}
+    \item{\code{Code}}{Three-letter code for country}
+    \item{\code{Education}}{Education spending (as a percentage of GDP)}
+    \item{\code{Literacy}}{Literacy rate}
   }
 }
-\details{ For each country, we have public spending on education (as a percentage of GDP) and literacy rate (percentage of the population who can read and write).
+\details{
+For each country, we have public spending on education (as a percentage of GDP) and literacy rate (percentage of the population who can read and write). \cr
+** Updated for 3e (an earlier version is at EducationLiteracy2e).  **
 }
 \source{
-Most recent data (as of 2015) for each country obtained from \emph{worldbank.org} and \emph{http:\\www.knoema.com}
+Most recent data (as of 2019) for each country obtained from \url{https://www.worldbank.org/en/home}.
 }
-
 \keyword{datasets}

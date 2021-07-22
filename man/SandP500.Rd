@@ -1,30 +1,27 @@
 \name{SandP500}
 \alias{SandP500}
 \docType{data}
-\title{
-S&P 500 Prices
-}
+\title{S&P 500 Prices}
 \description{
 Daily data for S&P 500 Stock Index
 }
-%\usage{data(SandP500)}
 \format{
-  A dataset with 252 observations on the following 6 variables.
-  \tabular{rl}{
-    \code{Date} \tab {Trading date} \cr
-    \code{Open} \tab {Opening value} \cr
-    \code{High} \tab {High point for the day} \cr
-    \code{Low} \tab {Low point for the day} \cr
-    \code{Close} \tab {Closing value} \cr
-    \code{Volume} \tab {Shares traded (in millions)} \cr
+  A data frame with 251 observations on the following 6 variables.
+  \describe{
+    \item{\code{Date}}{Trading date (mm/dd/yyy)}
+    \item{\code{Open}}{Opening value}
+    \item{\code{High}}{High point for the day}
+    \item{\code{Low}}{Low point for the day}
+    \item{\code{Close}}{Closing value}
+    \item{\code{Volume}}{Shares traded (in millions)}
   }
 }
 \details{
-Daily prices for the S&P 500 Stock Index for trading days in 2014.\cr
-** Data set updated for 2e (original is SandP5001e) **
+Daily prices for the S&P 500 Stock Index for trading days in 2018. \cr
+** Updated for 3e (earlier versions are SandP5002e from 2014 and  SandP5001e from 2010). **
+
 }
 \source{
-Downladed from \emph{http://finance.yahoo.com/q/hp?s=^GSPC+Historical+Prices}
+Downloaded from \url{https://finance.yahoo.com/quote/^GSPC/history?ltr=1}
 }
-
 \keyword{datasets}

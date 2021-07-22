@@ -16,7 +16,7 @@ Tip data from the First Crush Bistro
     \code{Credit} \tab {Paid with a credit card?  \code{n} or \code{y}} \cr
     \code{Guests} \tab {Number of people in the group} \cr
     \code{Day} \tab {Day of the week: \code{m}=Monday, \code{t}=Tuesday, \code{w}=Wednesday, \code{th}=Thursday, or \code{f}=Friday } \cr
-    \code{Server} \tab {Code for specfic waiter/waitress: \code{A},  \code{B}, or \code{C}} \cr
+    \code{Server} \tab {Code for specific waiter/waitress: \code{A},  \code{B}, or \code{C}} \cr
     \code{PctTip} \tab {Tip as a percentage of the bill} \cr
   }
 }

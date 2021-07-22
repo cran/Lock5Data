@@ -21,10 +21,10 @@ Daily data for S&P 500 Stock Index
 }
 \details{
 Daily prices for the S&P 500 Stock Index for trading days in 2010.\cr
-** From 1e - dataset has been updated for 2e **
+** From 1e - dataset has been updated for 2e and 3e **
 }
 \source{
-Downladed from \emph{http://finance.yahoo.com/q/hp?s=^GSPC+Historical+Prices}
+Downloaded from \emph{http://finance.yahoo.com/q/hp?s=^GSPC+Historical+Prices}
 }
 
 \keyword{datasets}

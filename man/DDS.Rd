@@ -1,7 +1,7 @@
 \name{DDS}
 \alias{DDS}
 \docType{data}
-\title{Develomental Services}
+\title{Developmental Services}
 \description{
 Funding for individuals by the California Department of Developmental Services (DDS),
 }

@@ -20,7 +20,7 @@ Commute times and distances for a sample of 500 people in St. Louis
 }
 \details{
 Data from the US Census Bureau's American Housing Survey (AHS) which contains information about housing and living conditions for samples from certain metropolitan areas.
-These data were extracted from espondents in the St. Louis metropolitan area. They include only cases where the respondent worked somewhere other than home.
+These data were extracted from respondents in the St. Louis metropolitan area. They include only cases where the respondent worked somewhere other than home.
 Values show the time (in minutes) and distance (in miles) that respondents typically traveled on their commute to work each day as well as age and sex.
 }
 \source{

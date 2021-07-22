@@ -23,7 +23,7 @@ Number of hits, wins, and other stats for MLB teams - 2011
     \code{StolenBases} \tab {Number of stolen bases}\cr
     \code{CaughtStealing} \tab {Number of times caught stealing}\cr
     \code{Walks} \tab {Number of walks}\cr
-    \code{Strikeouts} \tab {Number of stikeouts}\cr
+    \code{Strikeouts} \tab {Number of strikeouts}\cr
     \code{BattingAvg} \tab {Team batting average}\cr
   }
 }

@@ -9,7 +9,7 @@ Mating activity for water striders
 \format{
   A dataset with 10 observations on the following 3 variables.
   \tabular{rl}{
-    \code{AggressiveMale} \tab {Hyper-aggressice male in group? \code{No} or \code{Yes}}\cr
+    \code{AggressiveMale} \tab {Hyper-aggressive male in group? \code{No} or \code{Yes}}\cr
     \code{FemalesHiding} \tab {Proportion of time the female water striders were in hiding}\cr
     \code{MatingActivity} \tab {Measure of mean mating activity (higher numbers meaning more mating)}\cr
   }
