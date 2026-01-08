@@ -22,7 +22,7 @@ traffic lights to communicate information about traffic flow with nearby traffic
 }
 \source{
 Lammer and Helbing, "Self-Stabilizing decentralized signal control of realistic, saturated network traffic", Santa Fe Institute
-working paper \# 10-09-019, September 2010.
+working paper  10-09-019, September 2010.
 }
 
 \keyword{datasets}

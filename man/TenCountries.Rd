@@ -16,9 +16,9 @@ A subset of the \code{AllCountries} data for a random sample of ten countries
 }
 \details{
 Area and percent rural for a sample of ten countries from AllCountries dataset.\cr
-** Updated for 3e (earlier versions are now TenCountries2e and TenCountries1e) **
+** Updated for 4e (earlier versions are now Ten Countries3e, TenCountries2e, and TenCountries1e) **
 }
 \source{
-Data collected from the World Bank website, \url{https://www.worldbank.org/en/home}
+Data collected from the World Bank website, \url{https://www.worldbank.org/ext/en/home}
 }
 \keyword{datasets}

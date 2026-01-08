@@ -19,6 +19,6 @@ Results for all finishers in the 2016 Men's Olympic marathon in Rio de Janeiro, 
 ** Updated for 3e (earlier versions are now in OlympicMarathon2012 and OlympicMarathon2008) **
 }
 \source{
-\url{https://olympics.com/en/olympic-games/rio-2016/results/athletics/marathon-men}
+Downloaded from \emph{https://olympics.com/en/olympic-games/rio-2016/results/athletics/marathon-men}
 }
 \keyword{datasets}

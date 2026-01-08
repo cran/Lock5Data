@@ -21,7 +21,7 @@ Average temperature for the day of April 14th in each of 16 years from 1995-2010
 ** From 1e - dataset has been updated for 2e **
 }
 \source{
-The University of Dayton Average Daily Temperature Archive at \cr
+The University of Dayton Average Daily Temperature Archive downloaded from \cr
 \emph{http://academic.udayton.edu/kissock/http/Weather/citylistUS.htm}
 }
 

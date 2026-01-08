@@ -1,7 +1,7 @@
 \name{DecemberFlights2e}
 \alias{DecemberFlights2e}
 \docType{data}
-\title{December Flights - 2e}
+\title{December Flights - 2014}
 \description{
 Difference between actual and scheduled arrival for a sample of United and Delta flights in December 2014.
 }

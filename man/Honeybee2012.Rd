@@ -1,7 +1,7 @@
-\name{Honeybee}
-\alias{Honeybee}
+\name{Honeybee2012}
+\alias{Honeybee2012}
 \docType{data}
-\title{Honeybee Colonies}
+\title{Honeybee Colonies - 2012}
 \description{
 Number of honeybee colonies (1995-2012)
 }

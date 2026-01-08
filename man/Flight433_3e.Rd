@@ -1,7 +1,7 @@
-\name{Flight433}
-\alias{Flight433}
+\name{Flight433_3e}
+\alias{Flight433_3e}
 \docType{data}
-\title{Flight 433}
+\title{Flight 433 - 3e}
 \description{
 Flight times for Flight 433 (Boston-SF) in January 2019.
 }

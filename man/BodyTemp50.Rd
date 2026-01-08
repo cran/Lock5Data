@@ -18,6 +18,6 @@ Body temperatures and pulse rates for a sample of 50 healthy adults. Note the Se
 }
 \source{
 Shoemaker, "What's Normal: Temperature, Gender and Heartrate", Journal of Statistics Education, Vol. 4, No. 2 (1996) \cr
-\url{http://jse.amstat.org/v4n2/datasets.shoemaker.html}
+\url{https://jse.amstat.org/v4n2/datasets.shoemaker.html}
 }
 \keyword{datasets}

@@ -2,7 +2,7 @@
 \alias{EducationLiteracy2e}
 \docType{data}
 \title{
-Education Literacy - 2e
+Education Literacy - 2015
 }
 \description{
 Education spending and literacy rates for countries.

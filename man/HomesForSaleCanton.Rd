@@ -1,24 +1,24 @@
 \name{HomesForSaleCanton}
 \alias{HomesForSaleCanton}
 \docType{data}
-\title{Homes For Sale in Canton, NY (2019)}
+\title{Homes For Sale in Canton, NY (2025)}
 \description{
-Data for a sample of homes offered for sale in Canton, NY
+Data for a sample of homes sold in Canton, NY in 2025
 }
 \format{
-  A data frame with 30 observations on the following 4 variables.
+  A data frame with 10 observations on the following 4 variables.
   \describe{
     \item{\code{Price}}{Asking price (in $1,000's)}
-    \item{\code{Size}}{Area of all rooms (in 1,000's sq. ft.)}
+    \item{\code{Size}}{Area of all rooms (in sq. ft.)}
     \item{\code{Beds}}{Number of bedrooms}
     \item{\code{Baths}}{Number of bathrooms}
   }
 }
 \details{
-Data for a sample of homes for sale in Canton, NY, selected from \emph{zillow.com}. \cr
-** Updated for 3e (earlier version from 2010 is in HomesForSaleCanton2e). **
+Data for a sample of homes recently sold in Canton, NY, selected from \emph{zillow.com}. \cr
+** Updated for 4e (earlier versions are HomesForSaleCanton3e (2019) and HomesForSaleCanton2e (2010)). **
 }
 \source{
-Data collected from \url{https://www.zillow.com/} in 2019.
+Data collected from \emph{https://www.zillow.com/} in March 2025.
 }
 \keyword{datasets}

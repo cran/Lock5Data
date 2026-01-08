@@ -1,7 +1,7 @@
 \name{GlobalInternet2019}
 \alias{GlobalInternet2019}
 \docType{data}
-\title{Global Internet Usage}
+\title{Global Internet Usage - 2019}
 \description{
 Internet usage for several countries
 }
@@ -18,7 +18,7 @@ The Worldwide Broadband Speed League tests internet speeds at millions of access
 ** Updated for 3e (earlier version from 2011 is at GlobalInternet2011).
 }
 \source{
-Internet speeds for 2019 downloaded from \url{https://www.cable.co.uk/broadband/speed/worldwide-speed-league/} \cr
+Internet speeds for 2019 downloaded from \url{https://bestbroadbanddeals.co.uk/broadband/speed/worldwide-speed-league/} \cr
 Online hours for 2019 downloaded from \url{https://datareportal.com/library}
 }
 \keyword{datasets}

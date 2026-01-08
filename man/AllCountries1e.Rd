@@ -5,7 +5,7 @@
 AllCountries - 1e
 }
 \description{
-Data on the countries of the world
+Data on the countries of the world (1e)
 }
 %\usage{data(AllCountries)}
 \format{

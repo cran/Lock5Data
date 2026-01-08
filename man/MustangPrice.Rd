@@ -5,11 +5,11 @@
 Mustang Prices
 }
 \description{
-Price, age, and mileage for used Mustang cars at an internet website
+Price, age, and mileage for used Mustang cars at an internet website (2025)
 }
 %\usage{data(MustangPrice)}
 \format{
-  A dataset with 25 observations on the following 3 variables.
+  A dataset with 30 observations on the following 3 variables.
   \tabular{rl}{
     \code{Age} \tab {Age of the car (in years)} \cr
     \code{Miles} \tab {Mileage on the car (in 1,000's)} \cr
@@ -17,11 +17,13 @@ Price, age, and mileage for used Mustang cars at an internet website
   }
 }
 \details{
-A statistics student, Gabe McBride, was interested in prices for used Mustang cars being offered for sale on an internet site.
-He sampled 25 cars from the website and recorded the age (in years), mileage (in thousands of miles) and asking price (in $1,000's) for each car in his sample.
+A statistics student was interested in prices for used Mustang cars being offered for sale on an internet site.
+He sampled 30 cars from the website and recorded the age (in years), mileage (in thousands of miles),
+and asking price (in $1,000's) for each car in his sample.\cr
+** Updated for 4e (earlier version is now MustangPrice1e).  **
 }
 \source{
-Student project with data collected from \emph{autotrader.com} in 2008.
+Student project with data collected from \emph{autotrader.com} in March, 2025.
 }
 
 \keyword{datasets}

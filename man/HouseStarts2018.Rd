@@ -20,7 +20,7 @@ Updated for 3e (earlier version is in HouseStarts2015)
 \source{
 Census.gov website \url{https://www.census.gov/econ/currentdata/}
 
-\url{https://www.census.gov/econ/currentdata/dbsearch?program=RESCONST&startYear=2000&endYear=2018&categories=STARTS&dataType=SINGLE&geoLevel=US&notAdjusted=1&submit=GET+DATA&releaseScheduleId=}
+\emph{https://www.census.gov/econ/currentdata/dbsearch?program=RESCONST&startYear=2000&endYear=2018&categories=STARTS&dataType=SINGLE&geoLevel=US&notAdjusted=1&submit=GET+DATA&releaseScheduleId=}
 
 }
 \keyword{datasets}

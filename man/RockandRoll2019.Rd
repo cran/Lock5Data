@@ -20,6 +20,6 @@ All inductees of the Rock & Roll Hall of Fame as of 2019. \cr
 
 }
 \source{
-Rock & Roll Hall of Fame website, \url{https://www.rockhall.com/inductees/a-z}
+Rock & Roll Hall of Fame website, \url{https://www.rockhall.com/inductees}
 }
 \keyword{datasets}

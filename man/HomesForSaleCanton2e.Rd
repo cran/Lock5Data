@@ -2,7 +2,7 @@
 \alias{HomesForSaleCanton2e}
 \docType{data}
 \title{
-Homes for sale in Canton, NY - 2e
+Homes for sale in Canton, NY (2010)
 }
 \description{
 Prices of homes for sale in Canton, NY

@@ -1,7 +1,7 @@
 \name{HotDogs2019}
 \alias{HotDogs2019}
 \docType{data}
-\title{Hot Dog Eating Contest}
+\title{Hot Dog Eating Contest - 2019}
 \description{
 Winning number of hot dogs consumed in an eating contest (2002-2019)
 }

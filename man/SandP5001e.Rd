@@ -5,7 +5,7 @@
 S&P 500 Prices
 }
 \description{
-Daily data for S&P 500 Stock Index
+Daily data for S&P 500 Stock Index in 2010
 }
 %\usage{data(SandP5001e)}
 \format{

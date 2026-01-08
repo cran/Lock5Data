@@ -1,9 +1,9 @@
 \name{SalaryGender}
 \alias{SalaryGender}
 \docType{data}
-\title{Salary and Gender}
+\title{Salary and Gender - 2010}
 \description{
-Salaries for college teachers
+Salaries for college teachers in 2010
 }
 %\usage{data(SalaryGender)}
 \format{

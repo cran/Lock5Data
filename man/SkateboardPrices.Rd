@@ -1,22 +1,23 @@
 \name{SkateboardPrices}
 \alias{SkateboardPrices}
 \docType{data}
-\title{Skateboard Prices}
+\title{Skateboard Prices in (2025)}
 \description{
-Prices of skateboards for sale online
+Prices of skateboards for sale online in 2025
 }
 %\usage{data(SkateboardPrices)}
 \format{
   A dataset with 20 observations on the following variable.
   \tabular{rl}{
-    \code{Price} \tab {Selling price in dollars}\cr
+    \code{Price} \tab {Selling price in dollars (including delivery)}\cr
   }
 }
 \details{
-Prices for skateboards offered for sale on eBay.
+Prices (including delivery) for skateboards offered for sale on eBay.\cr
+**Updated for 4e (earlier version is nowSkateboardPrices2012)  **
 }
 \source{
-Random sample taken from all skateboards available for sale on eBay on February 12, 2012.
+Random sample taken from skateboards available for sale on eBay in March 2025.
 }
 
 \keyword{datasets}

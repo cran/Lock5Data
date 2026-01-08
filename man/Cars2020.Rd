@@ -36,6 +36,6 @@ Data for a set of 110 new car models in 2020 based on information in the Consume
 ** Updated for 3e (an earlier version from 2015 is at Cars2015). **
 }
 \source{
-Data on new car models in 2020 accessed from Consumer Reports website. \url{https://www.consumerreports.org/cars/}
+Data on new car models in 2020 accessed from Consumer Reports website. \emph{https://www.consumerreports.org/cars/}
 }
 \keyword{datasets}

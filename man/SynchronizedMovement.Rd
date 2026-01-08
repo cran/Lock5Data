@@ -13,7 +13,7 @@ Effects of synchronized movement activities
   \tabular{rl}{
     \code{Sex} \tab {\code{f} = female or \code{m} = male}\cr
     \code{Group} \tab {Type of activity.  Coded as \code{HS+HE}, \code{HS+LE}, \code{LS+HE}, or \code{LS+LE}  }\cr
-    { } \tab {for High/Low Synchronization + High/Low Exertion}\cr
+    \code{ } \tab {for High/Low Synchronization + High/Low Exertion}\cr
     \code{Synch} \tab {Synchronized activity? \code{yes} or \code{no} }\cr
     \code{Exertion} \tab {Exertion level: \code{high} or \code{low}}\cr
     \code{PainToleranceBefore} \tab {Measure of pain tolerance (mm Hg) before activity}\cr

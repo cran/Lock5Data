@@ -1,13 +1,13 @@
 \name{BaseballTimes}
 \alias{BaseballTimes}
 \docType{data}
-\title{Baseball Game Times}
+\title{Baseball Game Times (2024)}
 \description{
-Information for a sample of 30 Major League Baseball games played during the 2011 season
+Information for a sample of 50 Major League Baseball games played during the 2024 season
 }
 %\usage{data(BaseballTimes)}
 \format{
-  A dataset with 30 observations on the following 9 variables.
+  A dataset with 50 observations on the following 9 variables.
   \tabular{rl}{
     \code{Away} \tab {Away team name}\cr
     \code{Home} \tab {Home team name}\cr
@@ -21,10 +21,10 @@ Information for a sample of 30 Major League Baseball games played during the 201
   }
 }
 \details{
-Data from a sample of boxscores for Major League Baseball games played in August 2011.
+Data from a sample of boxscores for Major League Baseball games played during the 2024 season. Games include all played on May 6th, June 6th, July 13th, and August 16th,
 }
 \source{
-\emph{http://www.baseball-reference.com/boxes/2011.shtml}
+Data obtained from boxscores at \url{https://www.baseball-reference.com/boxes/index.fcgi}
 }
 
 \keyword{datasets}

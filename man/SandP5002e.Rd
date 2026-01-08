@@ -5,7 +5,7 @@
 S&P 500 Prices - 2e
 }
 \description{
-Daily data for S&P 500 Stock Index
+Daily data for S&P 500 Stock Index in 2014
 }
 %\usage{data(SandP5002e)}
 \format{

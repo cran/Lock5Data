@@ -6,15 +6,15 @@
 Atmospheric carbon dioxide levels by year
 }
 \format{
-  A data frame with 12 observations on the following 2 variables.
+  A data frame with 13 observations on the following 2 variables.
   \describe{
-    \item{\code{Year}}{Every five years from 1960 to 2015}
-    \item{\code{C02}}{Carbon dioxide level in parts per million}
+    \item{\code{Year}}{Every five years from 1960 to 2020}
+    \item{\code{CO2}}{Carbon dioxide level in parts per million}
   }
 }
 \details{
-Carbon dioxide levels in the atmosphere over a 55 year span from 1960-2015. \cr
-** Updated for 3e (earlier version is now CarbonDioxide2e) **
+Carbon dioxide levels in the atmosphere over a 60 year span from 1960-2020. \cr
+** Updated for 4e (earlier versions are now CarbonDioxide3e and CarbonDioxide2e) **
 
 }
 \source{

@@ -1,10 +1,5 @@
-# Lock5Data 3.0.0
+# Lock5Data 4.0.0
 
-** Datasets have been added that are new to the third edition of the Lock5 text. 
-
-** Many previous datsets have been updated from earlier editions. 
-
-** Older versions (from the first and second editions) of updated datasets are still included, but the names have been modified by adding "2e", "1e" or a year to the end of the dataset name.
-
-
-
+* Added new and revised datasets from the fourth edition of 
+Statistics: Unlocking the Power of Data (Wiley 2026).  
+Datasets from earlier edition are still retained but may be renamed.

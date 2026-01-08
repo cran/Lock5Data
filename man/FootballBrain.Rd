@@ -12,7 +12,7 @@ Brain measurements for non-football players, football players with no concussion
   A dataset with 75 observations on the following 5 variables.
   \tabular{rl}{
     \code{Group} \tab {\code{Control}=no football, \code{FBNoConcuss}=football player but no concussions,}\cr
-    { } \tab {or \code{FBConcuss}=football player with concussion history} \cr
+    \code{ } \tab {or \code{FBConcuss}=football player with concussion history} \cr
     \code{Hipp} \tab {Total hippocampus volume, in microL} \cr
     \code{LeftHipp} \tab {Left hippocampus volume, in microL} \cr
     \code{Years} \tab {Number of years playing football} \cr

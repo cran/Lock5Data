@@ -6,7 +6,7 @@
   Information on all US post-secondary schools collected by the Department of Education for the College Scorecard
 }
 \format{
-  A data frame with 6141 observations on the following 37 variables.
+  A data frame with 5702 observations on the following 35 variables.
   \describe{
     \item{\code{Name}}{Name of the school }
     \item{\code{State}}{State where school is located}
@@ -22,7 +22,7 @@
   \item{\code{Longitude}}{Longitude}
   \item{\code{AdmitRate}}{Admission rate}
   \item{\code{MidACT}}{Median of ACT scores}
-  \item{\code{AvgSAT}}{Average combined SAT scores}
+  \item{\code{AvgSAT}}{Average combined SAT equivalent scores for admitted students}
   \item{\code{Online}}{Only online (distance) programs}
   \item{\code{Enrollment}}{Undergraduate enrollment}
   \item{\code{White}}{Percent of undergraduates who report being white}
@@ -34,23 +34,21 @@
     \item{\code{NetPrice}}{Average net price (cost minus aid)}
     \item{\code{Cost}}{Average total cost for tuition, room, board, etc. }
     \item{\code{TuitionIn}}{In-state tuition and fees}
-    \item{\code{TuitonOut}}{Out-of-state tuition and fees}
+    \item{\code{TuitionOut}}{Out-of-state tuition and fees}
     \item{\code{TuitionFTE}}{Net Tuition revenue per FTE student}
     \item{\code{InstructFTE}}{Instructional spending per FTE student}
     \item{\code{FacSalary}}{Average monthly salary for full-time faculty}
     \item{\code{FullTimeFac}}{Percent of faculty that are full-time}
     \item{\code{Pell}}{Percent of students receiving Pell grants}
     \item{\code{CompRate}}{Completion rate (percent who finish program within 150\% of normal time)}
-    \item{\code{Debt}}{Average debt for students who complete program}
-    \item{\code{Female}}{Percent of female students}
-    \item{\code{FirstGen}}{Percent of first-generation students}
-    \item{\code{MedIncome}}{Median family income (in $1,000)}
-  }
+    \item{\code{Debt}}{Median debt for students who complete program}
+    \item{\code{PctWomen}}{Percent of women students}
+   }
 }
 \details{
-The US Department of Education maintains a database through its College Scorecard project of demographic information from all active postsecondary educational institutions that participate in Title IV. This dataset contains a small subsets of the variables in the full College Scorecard.
+The US Department of Education maintains a database through its College Scorecard project of demographic information from all active postsecondary educational institutions that participate in Title IV. This dataset contains a small subset of the variables in the full College Scorecard.  Schools with missing or zero enrollment were omitted.  Updated for 4e (previous dataset is now CollegeScores3e).
 }
 \source{
-Data downloaded from the US Department of Education's College Scorecard at \url{https://collegescorecard.ed.gov/data/} (November 2019)
+Data downloaded from the US Department of Education's College Scorecard at \url{https://collegescorecard.ed.gov/data/} (February 2025)
 }
 \keyword{datasets}

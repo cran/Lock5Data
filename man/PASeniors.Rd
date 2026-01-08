@@ -1,14 +1,14 @@
 \name{PASeniors}
 \alias{PASeniors}
 \docType{data}
-\title{Pennsylvania High School Seniors}
+\title{Pennsylvania High School Seniors  (2023-2024)}
 \description{
-Information on a sample of high school seniors from the state of Pennsylvania between 2010 and 2019.
+Information on a sample of high school seniors from the state of Pennsylvania between 2023 and 2024.
 }
 \format{
-  A data frame with 457 observations on the following 36 variables.
+  A data frame with 500 observations on the following 35 variables.
   \describe{
-    \item{\code{Year}}{Year student submitted data}
+    \item{\code{Year}}{Year student submitted data (2023 or 2024)}
     \item{\code{Gender}}{\code{Female} or \code{Male}}
     \item{\code{Age}}{Age (in years)}
     \item{\code{Hand}}{Dominant hand (\code{Left}, \code{Right}, or \code{Both})}
@@ -27,7 +27,7 @@ Information on a sample of high school seniors from the state of Pennsylvania be
     \item{\code{Allergies}}{Have allergies? (\code{No} or \code{Yes})}
     \item{\code{Vegetarian}}{Vegetarian?  (\code{No} or \code{Yes})}
     \item{\code{FavFood}}{Favorite food}
-    \item{\code{Drink}}{Beverage used most often during the day}
+    \item{\code{FavDrink}}{Beverage used most often during the day}
     \item{\code{FavSubject}}{Favorite subject in school}
     \item{\code{Sleep1}}{Typical hours of sleep on a school night}
     \item{\code{Sleep2}}{Typical hours of sleep on a non-school night}
@@ -36,7 +36,6 @@ Information on a sample of high school seniors from the state of Pennsylvania be
     \item{\code{TextsSent}}{Number of texts sent (previous day)}
     \item{\code{HangHours}}{Hours last week spent hanging out with friends}
     \item{\code{HWHours}}{Hours last week spent doing homework}
-    \item{\code{SportsHours}}{Hours last week spent playing sports or outdoor activities}
     \item{\code{VideoGameHours}}{Hours last week spent playing computer/video games}
     \item{\code{ComputerHours}}{Hours last week spent using a computer}
     \item{\code{TVHours}}{Hours last week spent watching TV}
@@ -47,9 +46,12 @@ Information on a sample of high school seniors from the state of Pennsylvania be
   }
 }
 \details{
-The dataset gives responses for a random sample of high school seniors in Pennsylvania who participated in the Census at Schools project.
+The dataset gives responses for a random sample of high school seniors in Pennsylvania
+who participated in the Census at Schools project in 2023 and 2024. \cr
+** Updated for 4e (earlier version with seniors from 2010-2019 is now in PASeniors2019) **
 }
 \source{
-Data from U.S. Census at School (\url{https://ww2.amstat.org/censusatschool/}) downloaded and used with the permission of the American Statistical Association.
+Data from U.S. Census at School (\emph{https://ww2.amstat.org/censusatschool/}) downloaded
+and used with the permission of the American Statistical Association.
 }
 \keyword{datasets}

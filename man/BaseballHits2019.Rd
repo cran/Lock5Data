@@ -26,7 +26,7 @@ Number of hits, wins, and other stats for MLB teams in 2019
 }
 \details{
 Offensive team statistics for the 2019 Major League Baseball regular season. \cr
-** Updated for 3e (earlier versions are now BaseballHits2014 and BaseballHits1e)
+** Updated for 3e (earlier versions are now BaseballHits2014, and BaseballHits1e)
 }
 \source{
 \url{https://www.baseball-reference.com/leagues/MLB/2019-standard-batting.shtml}

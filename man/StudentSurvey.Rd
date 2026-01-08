@@ -9,7 +9,7 @@ Data from a survey of students in introductory statistics courses
   A data frame with 362 observations on the following 17 variables.
   \describe{
     \item{\code{Year}}{Year in school}
-    \item{\code{Sex}}{code {F}=female or \code{M}=male}
+    \item{\code{Sex}}{\code{F}=female or \code{M}=male}
     \item{\code{Smoke}}{Smoker? \code{No} or \code{Yes}}
     \item{\code{Award}}{Preferred award: \code{Academy}, \code{Nobel}, or \code{Olympic}}
     \item{\code{HigherSAT}}{Which SAT is higher?  \code{Math} or \code{Verbal}}

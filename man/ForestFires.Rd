@@ -24,11 +24,11 @@ Characteristics of forest fires in Montesinho park (Portugal)
   }
 }
 \details{
-Data were recorded for fires in the Montesinho natural park in Portugal between January 2000 and December 2003. A map of the park (see the pdf linked below) is divided into 9x9 grid sections (given by the x,y-coordinates in the first two columns of the dataset).  There are four components of a Fire Weather Index that rate how weather conditions might increase fire danger. FFMC. DMC, and DC reflect various measures of moisture content, while the ISI score indicated how fast a fire might spread (for example, by wind).  For all four measures larger values are associated with more fire danger.  Fires that are less than 100 square meters in size (0.01 hectares) are recorded as Area=0. 
+Data were recorded for fires in the Montesinho natural park in Portugal between January 2000 and December 2003. A map of the park (see the pdf linked below) is divided into 9x9 grid sections (given by the x,y-coordinates in the first two columns of the dataset).  There are four components of a Fire Weather Index that rate how weather conditions might increase fire danger. FFMC. DMC, and DC reflect various measures of moisture content, while the ISI score indicated how fast a fire might spread (for example, by wind).  For all four measures larger values are associated with more fire danger.  Fires that are less than 100 square meters in size (0.01 hectares) are recorded as Area=0.
 }
 \source{
 Data downloaded from the UCI Machine Learning Repository, \url{https://archive.ics.uci.edu/ml/datasets/Forest+Fires} \cr
-Original article: P. Cortez and A. Morais. "A Data Mining Approach to Predict Forest Fires using Meteorological Data", in New Trends in Artificial Intelligence, Proceedings of the 13th EPIA 2007 - Portuguese Conference on Artificial Intelligence (December 2007) \url{http://www.dsi.uminho.pt/~pcortez/fires.pdf}
+Original article: P. Cortez and A. Morais. "A Data Mining Approach to Predict Forest Fires using Meteorological Data", in New Trends in Artificial Intelligence, Proceedings of the 13th EPIA 2007 - Portuguese Conference on Artificial Intelligence (December 2007).
 
 }
 \keyword{datasets}

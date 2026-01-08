@@ -19,6 +19,6 @@ A subset of the 2009-2010 National Health and Nutrition Examination Survey (NHAN
 This dataset is a subset of the 2009-2010 National Health and Nutrition Examination Survey (NHANES).  NHANES is a national survey conducted by the Centers for Disease Control and Prevention (CDC) on a random sample of Americans.  This subset contains data on select variables for the subset of people with responses to the questions about buying organic food and self-reported health status.
 }
 \source{
-The data were downloaded from \url{https://www.cdc.gov/nchs/nhanes/index.htm}.
+The data were downloaded from \emph{https://www.cdc.gov/nchs/nhanes/index.htm}.
 }
 \keyword{datasets}

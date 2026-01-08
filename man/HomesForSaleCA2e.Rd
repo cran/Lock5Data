@@ -2,7 +2,7 @@
 \alias{HomesForSaleCA2e}
 \docType{data}
 \title{
-Home for Sale in California -2e
+Home for Sale in California (2010)
 }
 \description{
 Data for a sample of homes offered for sale in California
